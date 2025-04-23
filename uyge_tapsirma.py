@@ -1,4 +1,4 @@
-from pathlib import Path
+'''from pathlib import Path
 import shutil
 import os
 
@@ -28,4 +28,4 @@ elif sorawshi == "yaq":
     exit()
 
 else:
-    print("Juwapti qayta kirgiz")
+    print("Juwapti qayta kirgiz")'''
